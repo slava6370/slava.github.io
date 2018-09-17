@@ -6,6 +6,8 @@
 
 -[Platinum 1](https://github.com/slava6370/slava.github.io/blob/master/platinum.txt)
 
+-[Platinum 2](https://github.com/slava6370/slava.github.io/blob/master/Platinum%202.txt)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
