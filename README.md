@@ -4,7 +4,7 @@
 ## Лабораторная 1
 -[Ссылка на модель](https://github.com/slava6370/slava.github.io/blob/master/1.PNG)
 
--[Platinum](https://github.com/slava6370/slava.github.io/blob/master/platinum.txt)
+-[Platinum 1](https://github.com/slava6370/slava.github.io/blob/master/platinum.txt)
 
 ## Лабораторная 2
 
