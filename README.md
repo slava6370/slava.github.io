@@ -15,7 +15,7 @@
 ## Лабораторная 2
 -[Рис1](https://github.com/slava6370/slava.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02(1.PNG)
 
--[Рис2](https://github.com/slava6370/slava.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02(2.PNG)
+-[Рис2] https://github.com/slava6370/slava.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02(2.PNG
 
 -[Рис3] (https://github.com/slava6370/slava.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02(3).PNG)
 
