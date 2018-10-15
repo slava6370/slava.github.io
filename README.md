@@ -21,6 +21,13 @@
 
 
 ## Лабораторная 3
+-[Рис1] https://github.com/slava6370/slava.github.io/blob/master/1.PNG
+
+-[Рис2] https://github.com/slava6370/slava.github.io/blob/master/2.PNG
+
+-[Рис3] https://github.com/slava6370/slava.github.io/blob/master/3.PNG
+
+-[шаблон] https://github.com/slava6370/slava.github.io/blob/master/lab3.rsf
 
 ## Лабораторная 4
 
